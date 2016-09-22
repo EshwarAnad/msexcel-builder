@@ -3,13 +3,13 @@
     "name": "Charlie Zheng",
     "email": "chuanyi.zheng@gmail.com"
   },
-  "name": "msexcel-builder-colorfix",
+  "name": "msexcel-builder-colorfix-emojifix",
   "description": "A tiny library to create Microsoft Office Excel(2007) files under Nodejs. Color filling and archive creating fixed by Maxim Romanov",
   "tags": [
     "xlsx",
     "excel"
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/aloteot/msexcel-builder.git"
